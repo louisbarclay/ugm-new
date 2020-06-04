@@ -4,7 +4,7 @@
     "contentApiKey": "4ba195b4c0a6225d8cd4130898"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
+    "apiUrl": "https://ecstatic-bose-08b8ad.netlify.app/",
     "contentApiKey": "4ba195b4c0a6225d8cd4130898"
   }
 }
